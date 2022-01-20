@@ -1,7 +1,7 @@
 # PredictNBAMVP
 Four Machine Learning models to predict to 2021-2022 NBA MVP 🏀 🏆
 
-**currentMVPS.csv last updated on 2022/01/11.**
+**currentMVPS.csv last updated on 2022/01/11. Next update coming at the All-Star break.**
 
 ## Four Models: ##
 1. k-Nearest Neighbors
