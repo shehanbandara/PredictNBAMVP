@@ -27,3 +27,4 @@ Four Machine Learning models to predict to 2021-2022 NBA MVP 🏀 🏆
 
 ## Conclusions: ##
 The models have Joel Embiid narrowly winning the MVP over Nikola Jokic, and Luka Dončić coming in third.
+** The 2021-2022 NBA MVP is Nikola Jokic, with Joel Embiid coming in second place, and Giannis Antetokounmpo coming in third place. **
